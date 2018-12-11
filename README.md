@@ -1,3 +1,9 @@
+# Youtube Videos
+
+https://www.youtube.com/watch?v=rXacJRnMFXU  
+https://www.youtube.com/watch?v=vk9oW1qNRb4
+
+
 # Elasticsearch with Node.js tutorial
 
 > Free open-source in-depth tutorial on elasticsearch with node.js
